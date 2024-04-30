@@ -1,0 +1,39 @@
+body {
+  background-image: url('bg6.gif');
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: silver;
+}
+
+.container {
+  margin-top: 100px;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+}
+
+#timer {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 0 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  font-size: 18px;
+}
